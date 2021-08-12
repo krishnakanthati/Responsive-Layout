@@ -1,2 +1,2 @@
-# Responsive-Project-Layout
-Responsive Project Layout using CSS Grid and Flexbox
+# Responsive Layout
+Responsive Layout using CSS Grid and Flexbox
